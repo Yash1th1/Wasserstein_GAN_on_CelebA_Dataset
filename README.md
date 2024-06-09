@@ -1,4 +1,3 @@
-# Wasserstein_GAN_on_CelebA_Dataset
 # WGAN on CelebA Dataset
 
 ## Overview
