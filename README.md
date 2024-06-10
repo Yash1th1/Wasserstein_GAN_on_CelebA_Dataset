@@ -6,7 +6,7 @@ This repository contains an implementation of a Wasserstein Generative Adversari
 
 ## Requirements
 
-- Python 3.x
+- Python 3.7
 - PyTorch
 - torchvision
 - numpy
