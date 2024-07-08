@@ -51,7 +51,7 @@ The discriminator network (`netd`) is also a deep convolutional neural network t
 - Removed the sigmoid activation in the last layer of the discriminator.
 - Clipped the discriminator's parameters to a specified threshold.
 
-```
+
 ### Results
 
 Generated images are displayed after each epoch to monitor the progress of the generator. These images are produced using fixed noise vectors to ensure consistency.
