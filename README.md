@@ -52,11 +52,11 @@ The discriminator network (`netd`) is also a deep convolutional neural network t
 - Clipped the discriminator's parameters to a specified threshold.
 
 ```
-## Results
+### Results
 
 Generated images are displayed after each epoch to monitor the progress of the generator. These images are produced using fixed noise vectors to ensure consistency.
 
-## Acknowledgements
+### Acknowledgements
 
 - [PyTorch](https://pytorch.org/)
 - [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
